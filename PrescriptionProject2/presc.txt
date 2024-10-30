@@ -1,6 +1,3 @@
-John Done, 123 Fake Street, City, 12345, Country, Sphere: 1.5, Cylinder: -2.0, Axis: 90
-John Done, 123 Fake Street, City, 12345, Country, Sphere: 1.5, Cylinder: -2.0, Axis: 90
-John Done, 123 Fake Street, City, 12345, Country, Sphere: 1.5, Cylinder: -2.0, Axis: 90
 ID: 1, Name: Mura Guru, Address: 45 Anna Salai, Chennai TN 600002, India, Sphere: 1.50, Cylinder: -2.00, Axis: 90, Date: 29/10/24, Optometrist: Dr. Divakar Gajini
 ID: 2, Name: Mrunal MuraliThakur, Address: 45 Anna Salai, Chennai TN 600002, India, Sphere: 1.50, Cylinder: -2.00, Axis: 90, Date: 29/10/24, Optometrist: Dr. Divakar Gajini
 ID: 3, Name: Murali Guru, Address: 123 MG Road Bangalore, Sphere: 1.50, Cylinder: -2.00, Axis: 90, Date: 29/10/24, Optometrist: Dr. Divakar Gajini
