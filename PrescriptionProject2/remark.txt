@@ -1,21 +1,3 @@
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
-Client: This is a valid Client remark.
 Prescription ID: 11, Type: Client, Remark: This is a valid six word remark
 Prescription ID: 11, Type: Optometrist, Remark: This is a valid remark with exactly twenty words to test the maximum limit of our system
 Prescription ID: 13, Type: Client, Remark: This is the first valid remark for testing purposes
